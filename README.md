@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .sydney one-word domains from Uniq
 
 **Public extract:** 9,666 rows · **Live catalog:** 9,666 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/sydney`  
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                 |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------------- |
 | converse.sydney   | available | $54.98    | —             | 64             | 73     | 8      | namecheap                                 |
-| move.sydney       | resell    | —         | —             | 109            | 42     | 4      | GoDaddy.com, LLC                          |
+| found.sydney      | resell    | —         | —             | 92             | 45     | 5      | Porkbun                                   |
 | easy.sydney       | premium   | $84.99    | $84.99        | 128            | 68     | 4      | name.com                                  |
 | nationwide.sydney | available | $54.98    | —             | 76             | 66     | 10     | namecheap                                 |
-| student.sydney    | resell    | —         | —             | 78             | 37     | 7      | Dreamscape Networks International Pte Ltd |
+| move.sydney       | resell    | —         | —             | 109            | 42     | 4      | GoDaddy.com, LLC                          |
 | power.sydney      | premium   | $862.78   | $862.78       | 98             | 62     | 5      | namecheap                                 |
 | seventeen.sydney  | available | $54.98    | —             | 84             | 62     | 9      | namecheap                                 |
-| weed.sydney       | resell    | —         | —             | 58             | 37     | 4      | GoDaddy.com, LLC                          |
+| student.sydney    | resell    | —         | —             | 78             | 37     | 7      | Dreamscape Networks International Pte Ltd |
 | free.sydney       | premium   | $2,517.51 | $2,517.51     | 88             | 59     | 4      | name.com                                  |
 | athletics.sydney  | available | $54.98    | —             | 69             | 52     | 9      | namecheap                                 |
-| bubble.sydney     | resell    | —         | —             | 94             | 35     | 6      | NameCheap, Inc.                           |
+| near.sydney       | resell    | —         | —             | 66             | 37     | 4      | GoDaddy.com, LLC                          |
 | ace.sydney        | premium   | $167.66   | $167.66       | 88             | 57     | 3      | name.com                                  |
 | clear.sydney      | available | $54.98    | —             | 90             | 49     | 5      | namecheap                                 |
-| sweet.sydney      | resell    | —         | —             | 72             | 35     | 5      | GoDaddy.com, LLC                          |
+| weed.sydney       | resell    | —         | —             | 58             | 37     | 4      | GoDaddy.com, LLC                          |
 | live.sydney       | premium   | $8,393.71 | $8,393.71     | 108            | 56     | 4      | name.com                                  |
 | simple.sydney     | available | $54.98    | —             | 128            | 48     | 6      | namecheap                                 |
-| near.sydney       | resell    | —         | —             | 66             | 35     | 4      | GoDaddy.com, LLC                          |
+| bubble.sydney     | resell    | —         | —             | 94             | 35     | 6      | NameCheap, Inc.                           |
 | data.sydney       | premium   | $863.38   | $863.38       | 70             | 56     | 4      | namecheap                                 |
 | snap.sydney       | available | $54.98    | —             | 90             | 46     | 4      | namecheap                                 |
-| slot.sydney       | resell    | —         | —             | 90             | 33     | 4      | NameCheap, Inc.                           |
+| sweet.sydney      | resell    | —         | —             | 72             | 35     | 5      | GoDaddy.com, LLC                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SYDNEY One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SYDNEY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
