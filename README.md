@@ -72,14 +72,14 @@ print(df.head())
 | power.sydney      | premium   | $862.78   | $862.78       | 98             | 62     | 5      | namecheap                                 |
 | seventeen.sydney  | available | $54.98    | —             | 84             | 62     | 9      | namecheap                                 |
 | student.sydney    | resell    | —         | —             | 78             | 37     | 7      | Dreamscape Networks International Pte Ltd |
-| free.sydney       | premium   | $2,517.51 | $2,517.51     | 88             | 59     | 4      | name.com                                  |
+| ace.sydney        | premium   | $167.66   | $167.66       | 88             | 57     | 3      | name.com                                  |
 | athletics.sydney  | available | $54.98    | —             | 69             | 52     | 9      | namecheap                                 |
 | near.sydney       | resell    | —         | —             | 66             | 37     | 4      | GoDaddy.com, LLC                          |
-| ace.sydney        | premium   | $167.66   | $167.66       | 88             | 57     | 3      | name.com                                  |
-| clear.sydney      | available | $54.98    | —             | 90             | 49     | 5      | namecheap                                 |
+| free.sydney       | premium   | $2,517.51 | $2,517.51     | 88             | 57     | 4      | name.com                                  |
+| simple.sydney     | available | $54.98    | —             | 128            | 49     | 6      | namecheap                                 |
 | weed.sydney       | resell    | —         | —             | 58             | 37     | 4      | GoDaddy.com, LLC                          |
 | live.sydney       | premium   | $8,393.71 | $8,393.71     | 108            | 56     | 4      | name.com                                  |
-| simple.sydney     | available | $54.98    | —             | 128            | 48     | 6      | namecheap                                 |
+| clear.sydney      | available | $54.98    | —             | 90             | 49     | 5      | namecheap                                 |
 | bubble.sydney     | resell    | —         | —             | 94             | 35     | 6      | NameCheap, Inc.                           |
 | data.sydney       | premium   | $863.38   | $863.38       | 70             | 56     | 4      | namecheap                                 |
 | snap.sydney       | available | $54.98    | —             | 90             | 46     | 4      | namecheap                                 |
