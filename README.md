@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .sydney one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,599 domains · **Median ask:** $140.67 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/sydney`  
 **Best for:** founders, investors, studios
 
@@ -70,9 +70,9 @@ print(df.head())
 | jobs.sydney         | premium   | $8,931.25 | —             | 79             | 42     | 4      | name.com  |
 | skills.sydney       | available | $54.98    | —             | 58             | 47     | 6      | namecheap |
 | Tools.sydney        | premium   | $500.12   | $500.12       | 56             | 40     | 5      | namecheap |
-| lets.sydney         | available | $54.98    | —             | 77             | 39     | 4      | namecheap |
+| whynot.sydney       | available | $54.98    | —             | 74             | 44     | 7      | namecheap |
 | videos.sydney       | premium   | $446.56   | —             | 52             | 30     | 6      | name.com  |
-| whynot.sydney       | available | $54.98    | —             | 74             | 39     | 7      | namecheap |
+| lets.sydney         | available | $54.98    | —             | 77             | 39     | 4      | namecheap |
 | quotes.sydney       | premium   | $89.31    | —             | 58             | 29     | 6      | name.com  |
 | neuroscience.sydney | available | $54.98    | —             | 80             | 37     | 12     | namecheap |
 | KFC.sydney          | premium   | $100.03   | $100.03       | 74             | 27     | 3      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SYDNEY One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SYDNEY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
