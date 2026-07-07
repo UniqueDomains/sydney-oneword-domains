@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .sydney one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,599 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,599 domains · **Median ask:** $140.67 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,599 domains · **Median ask:** $128.09 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/sydney`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/sydney`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SYDNEY one-word domai
 
 ### Files
 
-- `sydney.csv` — public CSV extract (1,000 rows)
-- `sydney.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `sydney.csv`, public CSV extract (1,000 rows)
+- `sydney.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| makers.sydney       | available | $54.98    | —             | 62             | 67     | 6      | namecheap |
-| online.sydney       | premium   | $2,674.93 | —             | 70             | 62     | 7      | name.com  |
-| farmers.sydney      | available | $54.98    | —             | 54             | 59     | 7      | namecheap |
-| jobs.sydney         | premium   | $8,931.25 | —             | 79             | 42     | 4      | name.com  |
-| skills.sydney       | available | $54.98    | —             | 58             | 47     | 6      | namecheap |
-| Tools.sydney        | premium   | $500.12   | $500.12       | 56             | 40     | 5      | namecheap |
-| whynot.sydney       | available | $54.98    | —             | 74             | 44     | 7      | namecheap |
-| videos.sydney       | premium   | $446.56   | —             | 52             | 30     | 6      | name.com  |
-| lets.sydney         | available | $54.98    | —             | 77             | 39     | 4      | namecheap |
-| quotes.sydney       | premium   | $89.31    | —             | 58             | 29     | 6      | name.com  |
-| neuroscience.sydney | available | $54.98    | —             | 80             | 37     | 12     | namecheap |
-| KFC.sydney          | premium   | $100.03   | $100.03       | 74             | 27     | 3      | namecheap |
-| teams.sydney        | available | $54.98    | —             | 62             | 32     | 5      | namecheap |
-| systems.sydney      | premium   | $447.05   | —             | 46             | 27     | 7      | name.com  |
-| tips.sydney         | available | $54.98    | —             | 80             | 26     | 4      | namecheap |
-| sites.sydney        | premium   | $178.62   | —             | 53             | 26     | 5      | name.com  |
-| drops.sydney        | available | $54.98    | —             | 52             | 25     | 5      | namecheap |
-| shops.sydney        | premium   | $2,679.38 | —             | 64             | 24     | 5      | name.com  |
-| Trex.sydney         | available | $54.98    | —             | 80             | 24     | 5      | namecheap |
-| toys.sydney         | premium   | $893.12   | —             | 60             | 24     | 4      | name.com  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| atop.sydney    | available | $54.98    | —             | medium         | low    | 4      | namecheap           |
+| massive.sydney | resell    | —         | —             | high           | low    | 7      | Tucows Domains Inc. |
+| ace.sydney     | premium   | $167.66   | $167.66       | high           | medium | 3      | name.com            |
+| bali.sydney    | available | $54.98    | —             | medium         | medium | 4      | namecheap           |
+| bad.sydney     | premium   | $179.76   | —             | high           | medium | 3      | name.com            |
+| calf.sydney    | available | $54.98    | —             | high           | low    | 4      | namecheap           |
+| BBC.sydney     | premium   | $181.30   | —             | high           | medium | 3      | name.com            |
+| camo.sydney    | available | $54.98    | —             | high           | low    | 4      | namecheap           |
+| bob.sydney     | premium   | $179.42   | —             | high           | medium | 3      | name.com            |
+| cent.sydney    | available | $54.98    | —             | high           | low    | 4      | namecheap           |
+| dad.sydney     | premium   | $178.62   | —             | high           | low    | 3      | name.com            |
+| cons.sydney    | available | $54.98    | —             | high           | low    | 4      | namecheap           |
+| egg.sydney     | premium   | $89.81    | —             | high           | low    | 3      | name.com            |
+| cows.sydney    | available | $54.98    | —             | medium         | low    | 4      | namecheap           |
+| fly.sydney     | premium   | $89.84    | —             | high           | low    | 3      | name.com            |
+| cyan.sydney    | available | $54.98    | —             | high           | low    | 4      | namecheap           |
+| ham.sydney     | premium   | $90.34    | —             | medium         | low    | 3      | name.com            |
+| disc.sydney    | available | $54.98    | —             | high           | low    | 4      | namecheap           |
+| ice.sydney     | premium   | $898.11   | —             | medium         | medium | 3      | name.com            |
+| diva.sydney    | available | $54.98    | —             | high           | low    | 4      | namecheap           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection focuses only on one-word .sydney domains. The set includes exact-match commercial terms such as laptop.sydney, haircut.sydney, and warranty.sydney, along with broader brandable words like elegant.sydney, cerulean.sydney, and busy.sydney. For founders, the main question is whether a name is clear, memorable, and credible enough to carry a local or city-linked brand. For investors, the key test is whether the word has recognizable commercial intent, broad buyer relevance, and an ask low enough to leave room for resale. With a median ask of 140.67, price discipline matters less than word quality and fit.
+This collection gathers 12,599 one-word .sydney domains, spanning short compound names and playful phrase-style handles built for a distinct Sydney identity. Names like getmarried.sydney, coffeeberry.sydney, and makefriends.sydney show the range — from whimsical to straightforward — available under this geographic TLD. The median ask sits near $128, making this a budget-friendly pool for testing brand names, event pages, or niche Sydney projects. Compare pricing and renewal costs closely before committing, since demand and resale value can vary widely within a young TLD like this one.
 
-- Exact-match terms can suit local commercial intent
-- Brandable words rely more on memorability and tone
-- Median ask is 140.67 across this .sydney selection
-- Check word clarity, buyer breadth, and renewal terms
+- 12,599 one-word .sydney domains in this set
+- Median ask near $128 across the selection
+- Playful compound names: getup, lightup, presents
+- Ideal for Sydney-flavored brands, events, side projects
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SYDNEY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SYDNEY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
