@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .sydney one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,154 domains · **Median ask:** $92.41 · **High-demand under $2,500:** 29
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/sydney`
 **Best for:** founders, investors, studios
 
@@ -65,11 +65,6 @@ print(df.head())
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
 | bad.sydney     | premium   | $179.76   | —             | high           | medium | 3      | name.com            |
-| room.sydney    | premium   | $453.78   | —             | high           | low    | 4      | name.com            |
-| fuck.sydney    | premium   | $898.29   | —             | high           | high   | 4      | name.com            |
-| soft.sydney    | available | $54.98    | —             | high           | low    | 4      | namecheap           |
-| fancy.sydney   | available | $54.98    | —             | high           | low    | 5      | namecheap           |
-| brief.sydney   | available | $54.98    | —             | high           | low    | 5      | namecheap           |
 | atop.sydney    | available | $54.98    | —             | medium         | low    | 4      | namecheap           |
 | massive.sydney | resell    | —         | —             | high           | low    | 7      | Tucows Domains Inc. |
 | ace.sydney     | premium   | $167.66   | $167.66       | high           | medium | 3      | name.com            |
@@ -84,6 +79,11 @@ print(df.head())
 | dad.sydney     | premium   | $178.62   | —             | high           | low    | 3      | name.com            |
 | cows.sydney    | available | $54.98    | —             | medium         | low    | 4      | namecheap           |
 | egg.sydney     | premium   | $89.81    | —             | high           | low    | 3      | name.com            |
+| cyan.sydney    | available | $54.98    | —             | high           | low    | 4      | namecheap           |
+| fly.sydney     | premium   | $89.84    | —             | high           | low    | 3      | name.com            |
+| disc.sydney    | available | $54.98    | —             | high           | low    | 4      | namecheap           |
+| ham.sydney     | premium   | $90.34    | —             | medium         | low    | 3      | name.com            |
+| diva.sydney    | available | $54.98    | —             | high           | low    | 4      | namecheap           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SYDNEY One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SYDNEY One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
