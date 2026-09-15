@@ -3,7 +3,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 f0bb96ad-f71f-441b-a675-86871af76c08,getting.sydney,available,54.98,,high,low,7,namecheap,,
 aeaee191-20ea-41e1-9489-11903c1ca287,shooting.sydney,premium,90,,medium,low,8,name.com,,
 93bf919d-5dcb-4305-a733-4c107ef2b786,whatabout.sydney,available,54.98,,low,low,10,namecheap,,
-562f4da0-0ba2-4139-9756-e546292ea813,nourishing.sydney,available,54.98,,high,low,10,namecheap,,
+562f4da0-0ba2-4139-9756-e546292ea813,nourishing.sydney,available,44.98,54.98,medium,low,10,namecheap,,
 e06d1200-0143-4ca5-bace-5ad89a0e21b3,consultant.sydney,premium,900.25,,high,low,10,name.com,,
 fad3cdd5-4680-4d31-a698-4a7c8a20335e,SouthAmerican.sydney,available,54.98,,low,low,14,namecheap,,
 20fe1345-0451-4079-85f8-b6d83ca630bb,described.sydney,available,54.98,,medium,low,9,namecheap,,
