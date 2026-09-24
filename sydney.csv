@@ -15,7 +15,7 @@ b02bc244-c80c-42c5-aa16-f25feab5b9e1,explorer.sydney,available,54.98,,high,low,8
 13cf88d5-0ec8-4c06-938d-11cbcf321c1d,offcolor.sydney,available,44.98,54.98,low,low,9,namecheap,,,09/08/2026 02:10
 b318b259-aa14-4d56-b453-e9704a8ebee2,animating.sydney,available,58,58,medium,low,9,namesilo,,,22/09/2026 05:08
 24cbddda-c9d7-419a-8108-55cd28355fc5,anaclitic.sydney,available,44.98,54.98,low,low,9,namecheap,,,
-48ed866f-42ab-462a-a581-aa0b3756dfea,creepy.sydney,available,54.98,,medium,low,6,namecheap,,,
+48ed866f-42ab-462a-a581-aa0b3756dfea,creepy.sydney,available,44.98,54.98,low,low,6,namecheap,,,24/09/2026 01:42
 f0258248-ba9b-42d9-aa1d-16a11e0f55de,lookatme.sydney,available,54.98,,medium,low,10,namecheap,,,
 8e2a847b-2545-4b78-89db-f6f2a134244b,sauna.sydney,premium,181.09,,high,low,5,name.com,,,
 1c191393-c366-40e1-a72d-0bdbaaf3f4c3,outlet.sydney,premium,453.78,,high,low,6,name.com,,,
@@ -68,11 +68,11 @@ ba5008d8-8603-4c57-9d4d-8a85308e1a09,antheral.sydney,available,44.98,54.98,low,l
 f99c8285-0b46-4e99-a0aa-f90a8f703017,unstoppable.sydney,available,54.98,,high,low,11,namecheap,,,
 d6f829d7-b063-4656-8d13-d14857833d5d,bearded.sydney,available,44.98,54.98,low,low,7,namecheap,,,08/08/2026 16:05
 7eb1f00c-8c4b-465d-a46e-cfbfaad450f7,whacky.sydney,available,44.98,54.98,low,low,6,namecheap,,,06/08/2026 21:32
-c8e45b06-18a7-4ef6-ad2f-6c00f5f69eae,compound.sydney,available,54.98,,high,low,8,namecheap,,,
+c8e45b06-18a7-4ef6-ad2f-6c00f5f69eae,compound.sydney,available,44.98,54.98,medium,low,8,namecheap,,,23/09/2026 17:56
 69f38b52-d845-4731-a8d3-d254f5ec1abb,because.sydney,available,54.98,,high,low,7,namecheap,,,
 f3e22485-5018-4561-ba2e-a9ba169444eb,sellbydate.sydney,available,54.98,,medium,low,12,namecheap,,,
 4eb93bb3-a5e9-4b59-86e3-e4c16f9a98fa,summertire.sydney,available,54.98,,high,low,11,namecheap,,,
-5610ca71-a5d9-4cf5-a214-4a74d4b1daf0,logo.sydney,premium,90.5,,medium,low,4,name.com,,,
+5610ca71-a5d9-4cf5-a214-4a74d4b1daf0,logo.sydney,available,58,58,medium,low,4,namesilo,,,23/09/2026 08:54
 a8d27f04-f91c-488a-847e-c5440d49dc22,wakingup.sydney,available,54.98,,high,low,9,namecheap,,,
 067f3fab-72ba-47ae-9421-4d0d4415c361,pin.sydney,premium,89.66,,high,low,3,name.com,,,
 f6a9b264-e702-4ec4-844c-d3161e96b874,acrogenous.sydney,available,44.98,54.98,low,low,10,namecheap,,,
@@ -111,11 +111,11 @@ d3872849-d734-4489-9aa4-f101f1696aca,liii.sydney,available,44.98,54.98,low,low,4
 a5dee4ad-fcc2-4371-8990-e31fb516312c,anionic.sydney,available,44.98,54.98,low,low,7,namecheap,,,
 18826be2-8a36-4766-8ba7-8b27157fd232,airsick.sydney,available,44.98,54.98,low,low,7,namecheap,,,
 78fcb29c-6e2f-48d5-9b31-24e87b14d6bb,harddrive.sydney,available,54.98,,high,low,10,namecheap,,,
-a95d14f2-4e5b-4929-8389-bc9278caec88,limiting.sydney,available,54.98,,medium,low,8,namecheap,,,
+a95d14f2-4e5b-4929-8389-bc9278caec88,limiting.sydney,available,58,58,low,low,8,namesilo,,,23/09/2026 19:42
 966daf8c-8189-42f6-a66e-6cae8bc8c6a4,vibrate.sydney,available,54.98,,high,low,7,namecheap,,,
 f86bb41f-0640-4c62-a9f1-cc88b9aaa78a,humourous.sydney,available,54.98,,high,low,9,namecheap,,,
 a78c2d07-de38-42ee-9a4f-f5f0b5155b0e,jimthorpe.sydney,available,54.98,,high,low,10,namecheap,,,
-4b0cb540-66f9-47db-93bf-cf49b008f93c,appointment.sydney,available,54.98,,high,low,11,namecheap,,,
+4b0cb540-66f9-47db-93bf-cf49b008f93c,appointment.sydney,available,58,58,medium,low,11,namesilo,,,24/09/2026 03:38
 8f8d6c26-3787-444d-b58e-55932eb05e89,superstar.sydney,available,44.98,54.98,medium,low,9,namecheap,,,21/09/2026 17:56
 3466df35-b219-49ce-8c10-6c0e6c3429fb,watch.sydney,premium,904.96,,high,low,5,name.com,,,
 9a656eda-0930-446a-be09-2c07cfe72cce,forth.sydney,available,58,58,low,low,5,namesilo,,,22/09/2026 14:59
@@ -125,14 +125,14 @@ ff255216-9641-410e-9343-ce5e83fa79df,began.sydney,available,54.98,,medium,low,5,
 3fef5f5b-b0ca-43cc-b47d-8f392073c294,perfected.sydney,available,54.98,,high,low,9,namecheap,,,
 f5e1fd7d-b5ca-4d77-9854-a7446a4ac183,lecture.sydney,available,54.98,,high,low,7,namecheap,,,
 197b7ab6-6158-4246-babe-4da2eaaac109,agamous.sydney,available,44.98,54.98,low,low,7,namecheap,,,
-5a606f68-14d4-4060-9db8-1cc37a08415a,industry.sydney,available,58,58,medium,low,8,namesilo,,,19/09/2026 13:49
+5a606f68-14d4-4060-9db8-1cc37a08415a,industry.sydney,premium,91.87,91.87,medium,low,8,namecheap,,,23/09/2026 16:53
 82167f88-745c-4efc-8686-51704b096697,diploma.sydney,available,54.98,,high,low,7,namecheap,,,
 0d281bcb-a224-48dc-aefd-ad98835f4b79,fortieth.sydney,available,44.98,54.98,low,low,8,namecheap,,,
 233dfa13-4787-4b08-9cb2-f6498adb8521,torturous.sydney,available,44.98,54.98,low,low,9,namecheap,,,
 ab1da8b9-ed21-475f-b1ea-5ff494f73d75,fearless.sydney,available,58,58,medium,low,8,namesilo,,,22/09/2026 12:19
 cf03dc92-830a-4e31-8776-87093002808c,gosing.sydney,available,54.98,,high,low,7,namecheap,,,
 15d23345-1d8f-4976-bbaf-54946c9f574c,incometax.sydney,available,54.98,,medium,low,10,namecheap,,,
-3c3d6ba1-20f5-4e24-9622-28f251050430,compatible.sydney,available,54.98,,high,low,10,namecheap,,,
+3c3d6ba1-20f5-4e24-9622-28f251050430,compatible.sydney,available,58,58,medium,low,10,namesilo,,,23/09/2026 16:57
 24f23ab6-76fe-4305-a6ed-e1498fd07d2e,legislative.sydney,available,54.98,,high,low,11,namecheap,,,
 582f3711-1bf5-47b4-9d6b-ca950c4d5446,nimble.sydney,available,58,58,medium,low,6,namesilo,,,21/09/2026 23:05
 f823adff-fc4a-4ddd-8326-8a9a73903b97,sneeze.sydney,available,54.98,,high,low,6,namecheap,,,
@@ -164,7 +164,7 @@ fcff630a-addc-4826-854b-eb01e4c80abc,oakland.sydney,available,54.98,,medium,low,
 3355c60c-4198-4669-a8b6-c6dc1285aa82,meantime.sydney,available,54.98,,high,low,8,namecheap,,,
 e94e797b-162e-4a98-aa47-022da5f717a6,newton.sydney,premium,90.59,,medium,low,6,name.com,,,
 1f0bd918-11bf-4f48-a8b8-07f33e639eb1,press.sydney,premium,895.07,,medium,low,5,name.com,,,
-6560f95f-8da1-43d1-a23d-419d8b76a0bd,conclusion.sydney,available,54.98,,high,low,10,namecheap,,,
+6560f95f-8da1-43d1-a23d-419d8b76a0bd,conclusion.sydney,available,44.98,54.98,medium,low,10,namecheap,,,23/09/2026 14:51
 9247f3ce-f3b1-4bd3-9af0-b955131aab16,brighten.sydney,available,54.98,,high,low,8,namecheap,,,
 f811c9a2-3cb2-425e-bc45-fc4b415d396b,ascendent.sydney,available,44.98,54.98,low,low,9,namecheap,,,
 2b2cd9fe-ae38-4fca-a0a6-bb248b9d2625,poundcake.sydney,available,54.98,,medium,low,10,namecheap,,,
@@ -180,9 +180,9 @@ a044236b-7e6f-4a68-9d9b-2dee642294f4,notions.sydney,available,54.98,,low,low,7,n
 99f0fe0c-7ca5-4faf-91e5-2069850e40f4,howaboutthat.sydney,available,54.98,,medium,low,14,namecheap,,,
 9b521158-8699-466d-b926-0e8390693e25,westend.sydney,available,54.98,,medium,low,8,namecheap,,,
 4b23cfc2-0f28-4086-b33a-9ffc17d52040,atbest.sydney,available,54.98,,medium,low,7,namecheap,,,
-be5400c9-9f14-4ead-bc39-3ca62996f24a,room.sydney,premium,58,58,medium,low,4,namesilo,,,08/09/2026 08:37
+be5400c9-9f14-4ead-bc39-3ca62996f24a,room.sydney,available,58,58,medium,low,4,namesilo,,,23/09/2026 08:08
 7e21e3ed-0e5b-4f79-ade7-6725eba33bb8,mass.sydney,available,58,58,medium,low,4,namesilo,,,21/09/2026 22:50
-6099f9cc-084c-4bdd-bf9f-66db92d021c1,forced.sydney,available,54.98,,medium,low,6,namecheap,,,
+6099f9cc-084c-4bdd-bf9f-66db92d021c1,forced.sydney,available,44.98,54.98,low,low,6,namecheap,,,23/09/2026 21:10
 6d7cb667-6d98-4dd5-9f18-06c5c2a7d0f3,north.sydney,premium,2668.52,,high,low,5,name.com,,,
 74bf1b6e-ec4a-41c3-807d-7ae0317d4353,apical.sydney,available,44.98,54.98,low,low,6,namecheap,,,05/08/2026 23:58
 d2f098a8-cd10-4170-be81-ab572726ccd2,managing.sydney,available,54.98,,high,low,8,namecheap,,,
@@ -210,7 +210,7 @@ f97a842e-3ef3-41de-a5a5-506329e4615a,mainman.sydney,available,54.98,,high,low,8,
 6d84778a-e705-47dd-a104-aa78c7c488bf,quickwitted.sydney,available,54.98,,medium,low,12,namecheap,,,
 a8df69b2-9b9f-42a7-809f-c05784bd8f98,give.sydney,available,54.98,,high,low,4,namecheap,,,
 42c1ca73-4d82-41ac-ad2f-980bdbbb391e,clustered.sydney,available,44.98,54.98,low,low,9,namecheap,,,
-f694ce40-81eb-4657-a403-61bb8f5d2f70,snap.sydney,available,54.98,,high,medium,4,namecheap,,,
+f694ce40-81eb-4657-a403-61bb8f5d2f70,snap.sydney,available,58,58,medium,low,4,namesilo,,,24/09/2026 01:20
 5bbe9674-a09a-49c7-9823-3d776d27ec0d,bloodclot.sydney,available,54.98,,medium,low,10,namecheap,,,
 7680c799-bb82-4feb-89ea-c8099765a3b6,bluish.sydney,available,58,58,low,low,6,namesilo,,,22/09/2026 22:47
 0e30c175-a9cf-4f3d-b43f-522c8c5cda20,country.sydney,available,54.98,,high,low,7,namecheap,,,
@@ -251,7 +251,7 @@ f772da1d-79a4-42c3-8a5a-4f1f23a8135c,appetising.sydney,available,44.98,54.98,low
 ef741f44-8caa-498e-9a2c-83db1e280509,standbehind.sydney,available,54.98,,low,low,12,namecheap,,,
 fa8fdaf9-1664-4565-a6aa-34ff22c54231,tilted.sydney,available,44.98,54.98,low,low,6,namecheap,,,07/08/2026 13:29
 eefdcc0f-e23e-4f02-ba9e-f429b651f840,fired.sydney,available,54.98,,medium,low,5,namecheap,,,
-e9281636-2ccc-4fd9-a8e5-a3694946f723,crafty.sydney,available,54.98,,medium,low,6,namecheap,,,
+e9281636-2ccc-4fd9-a8e5-a3694946f723,crafty.sydney,available,58,58,low,low,6,namesilo,,,24/09/2026 01:24
 f8670273-ab23-4af9-8385-b3555b4ca451,alarmed.sydney,available,44.98,54.98,low,low,7,namecheap,,,
 e73f9edf-974a-4c34-8c85-d3f32c7e150a,anybudy.sydney,available,54.98,,medium,low,7,namecheap,,,
 416b7dce-0ce3-4177-8cd0-011c041427fc,paperback.sydney,available,54.98,,high,low,9,namecheap,,,
@@ -306,7 +306,7 @@ ae1c9535-e926-410e-a1e4-55e2698ca4c5,whothehell.sydney,available,54.98,,low,low,
 799e102a-ef44-4e65-9e17-fdf852e3680e,wife.sydney,available,54.98,,high,low,4,namecheap,,,
 2fe173d6-1883-44dd-8a63-641a9e283dc7,vocalcords.sydney,available,54.98,,medium,low,11,namecheap,,,
 2113017a-953a-4cc6-a9e0-a2e086eff342,fiftynine.sydney,available,44.98,54.98,low,low,10,namecheap,,,
-69d08580-f227-4c20-9973-c86a544dc63d,cunning.sydney,available,54.98,,medium,low,7,namecheap,,,
+69d08580-f227-4c20-9973-c86a544dc63d,cunning.sydney,available,58,58,low,low,7,namesilo,,,24/09/2026 01:26
 5bc6d363-acd6-4d02-a175-21e0073276a2,ackack.sydney,available,44.98,54.98,low,low,7,namecheap,,,
 76832328-d41a-4e9a-b593-67eb41219a7c,archosaur.sydney,available,44.98,54.98,low,low,9,namecheap,,,06/08/2026 15:57
 5e8dab51-d720-453a-be28-d3e73e3bbbe3,toobad.sydney,available,44.98,54.98,medium,medium,7,namecheap,,,09/09/2026 13:01
@@ -342,7 +342,7 @@ b2031324-ec97-449f-97cc-a0f69f8a5dab,hunkydory.sydney,available,44.98,54.98,medi
 6ed17799-63ad-40f9-bbf3-de6d34d9232e,ontheedgeof.sydney,available,54.98,,medium,low,14,namecheap,,,
 ef6ea70d-6325-426e-ad99-61ae92a82464,octet.sydney,available,44.98,54.98,low,low,5,namecheap,,,
 7c7a06fa-a705-4b7c-9382-aa4b62664eec,ascendable.sydney,available,44.98,54.98,low,low,10,namecheap,,,07/08/2026 00:35
-328c99a0-df4b-4403-8f4e-b67b2f4a17f5,integral.sydney,available,54.98,,medium,low,8,namecheap,,,
+328c99a0-df4b-4403-8f4e-b67b2f4a17f5,integral.sydney,available,58,58,medium,low,8,namesilo,,,23/09/2026 10:33
 4608cd5e-89d0-4444-91fb-ac6363d30861,tentbed.sydney,available,54.98,,high,low,8,namecheap,,,
 cc091459-f1ca-4d94-92ee-aabdb6f1fb7a,aleatory.sydney,available,44.98,54.98,low,low,8,namecheap,,,
 4be802e0-9805-4b76-81d9-0ae2dfd7b72d,finalyearproject.sydney,available,54.98,,high,low,18,namecheap,,,
@@ -351,7 +351,6 @@ ef94f7ca-2580-4025-96f0-86139ec11b5a,businesstrip.sydney,available,54.98,,high,l
 c4071b1e-eb93-461d-b267-903e2e39ae39,suffer.sydney,available,54.98,,medium,low,6,namecheap,,,
 bec58d6a-ab33-4121-84e1-a69af6cf285d,pearlwhite.sydney,available,54.98,,low,low,11,namecheap,,,
 65ad8850-7c1c-4849-b7d1-e704559a8ef4,equal.sydney,available,44.98,54.98,medium,low,5,namecheap,,,21/09/2026 18:27
-fdac40b1-7ab6-4592-8745-bd3a159fa4ac,gay.sydney,available,,,high,high,3,,,,
 7ce313c1-fe0f-4f8e-89e9-057a7a44f85e,withering.sydney,available,44.98,54.98,low,low,9,namecheap,,,
 e4ce4951-f91c-4a05-b743-d6033bb91f03,bali.sydney,available,54.98,,medium,medium,4,namecheap,,,
 05f23b86-c389-417e-bc8a-3ad5e6d6594b,stepson.sydney,available,54.98,,high,low,7,namecheap,,,
@@ -361,10 +360,10 @@ ed2e7874-4723-4348-b128-671df063cabf,enviable.sydney,available,54.98,,high,low,8
 d2679ce7-64de-443e-bb98-280e33163608,fourth.sydney,available,44.98,54.98,low,low,6,namecheap,,,
 052681b0-ab2c-41fc-bf41-cbac0d9efcff,disappointed.sydney,available,54.98,,medium,low,12,namecheap,,,
 0258c3e5-94e4-440b-935f-484ce2e633a2,birthday.sydney,premium,89.57,,high,low,8,name.com,,,
-efbd19aa-0aa8-490c-bdd1-e40e888ba921,commercial.sydney,available,58,58,medium,low,10,namesilo,,,19/09/2026 10:28
+efbd19aa-0aa8-490c-bdd1-e40e888ba921,commercial.sydney,available,58,58,medium,low,10,namesilo,,,23/09/2026 07:53
 b0770e9a-cddc-410b-8c10-1c3cdf4103f9,saint.sydney,available,54.98,,high,low,5,namecheap,,,
 2bf15bc8-e18d-44f3-bfeb-ed689bfc9036,bendystraw.sydney,available,54.98,,high,low,11,namecheap,,,
-3fc4d5cf-c8a5-480a-83f1-4fc7f445f105,broadband.sydney,available,54.98,,high,low,9,namecheap,,,
+3fc4d5cf-c8a5-480a-83f1-4fc7f445f105,broadband.sydney,available,58,58,medium,low,9,namesilo,,,23/09/2026 09:40
 17d5baaa-4a2c-404e-a9da-19d47c5cf1d5,forgiving.sydney,available,58,58,medium,low,9,namesilo,,,21/09/2026 14:52
 4c4046f8-e291-4762-b041-96048be5e41f,seriously.sydney,available,54.98,,medium,low,9,namecheap,,,
 be360069-883e-4675-9541-51ee4498786d,barbeque.sydney,available,54.98,,high,low,8,namecheap,,,
@@ -453,14 +452,14 @@ a911b34f-9811-47c9-b465-888ba565c54a,tobeginwith.sydney,available,54.98,,low,low
 3a945103-94ef-4885-a3b1-73e7883117d3,old.sydney,premium,89.78,,high,low,3,name.com,,,
 def70cd1-5440-4cd8-a050-63a9c8a268e3,banal.sydney,available,58,58,low,low,5,namesilo,,,22/09/2026 16:37
 bf33dd3f-89ff-4e35-84e4-89efc20fe1e8,playacting.sydney,available,44.98,54.98,low,low,10,namecheap,,,
-f91838e8-0598-478c-92b9-d2542c62d969,halt.sydney,available,54.98,,medium,low,4,namecheap,,,
+f91838e8-0598-478c-92b9-d2542c62d969,halt.sydney,available,58,58,low,low,4,namesilo,,,24/09/2026 01:49
 f0e5e714-5d4e-4f24-a804-7fb50ddd343c,silverprint.sydney,available,54.98,,low,low,12,namecheap,,,
-bf1e7905-9bab-4c34-908b-ab9d140c495e,communal.sydney,available,54.98,,medium,low,8,namecheap,,,
+bf1e7905-9bab-4c34-908b-ab9d140c495e,communal.sydney,available,58,58,medium,low,8,namesilo,,,23/09/2026 16:10
 eba7a5f4-d434-47e5-8c6d-474cbc5d6316,block.sydney,available,54.98,,medium,low,5,namecheap,,,
 fde507c6-c507-43db-a81e-c5a8c792f1f9,panes.sydney,available,54.98,,medium,low,5,namecheap,,,
 2549f3db-b4b2-4914-8493-e95773a205f8,autogamous.sydney,available,44.98,54.98,low,low,10,namecheap,,,07/08/2026 20:05
 245a804b-261b-4910-8a6c-21a1c262fb7f,spicy.sydney,available,54.98,,high,low,5,namecheap,,,
-d1d0fb10-a692-4eb8-b97c-bdf8aab279ce,forge.sydney,available,54.98,,medium,medium,5,namecheap,,,
+d1d0fb10-a692-4eb8-b97c-bdf8aab279ce,forge.sydney,available,58,58,low,low,5,namesilo,,,24/09/2026 00:25
 10bd455a-241c-4984-89e4-a78efb516688,bacterioid.sydney,available,44.98,54.98,low,low,10,namecheap,,,08/08/2026 07:17
 98c275ef-3adb-4b9c-8e1b-2935de7d2356,prejudice.sydney,available,44.98,54.98,low,low,9,namecheap,,,22/09/2026 20:16
 ce659f92-1317-4376-9311-7eb3f3449c69,comeout.sydney,available,54.98,,high,low,8,namecheap,,,
@@ -487,7 +486,7 @@ c07454e8-4e13-4dfa-a083-692672c0e6cc,profitmargin.sydney,available,54.98,,high,l
 40ef3862-db2b-4a9d-9e51-621435421cbb,anaemic.sydney,available,44.98,54.98,low,low,7,namecheap,,,
 4de87a8c-170e-4506-bfe9-e4890629fd0d,talk.sydney,available,,,high,low,4,,,,
 6629823f-dbad-4c4f-9d5b-bf9a5847cd7d,asterisked.sydney,available,44.98,54.98,low,low,10,namecheap,,,07/08/2026 08:47
-03287d55-aa00-4ce3-b3fc-a64580232845,track.sydney,available,54.98,,high,medium,5,namecheap,,,
+03287d55-aa00-4ce3-b3fc-a64580232845,track.sydney,available,58,58,medium,low,5,namesilo,,,24/09/2026 02:07
 14cc936c-a3d4-4a11-aa7d-506662d1c8d5,toy.sydney,premium,90.27,,high,low,3,name.com,,,
 f6a9b326-7f9b-4cfc-b8b9-1b3896eac004,arciform.sydney,available,44.98,54.98,low,low,8,namecheap,,,06/08/2026 14:44
 a7a1c523-af50-4d28-9ae7-a88988a17547,pyjamaparty.sydney,available,54.98,,high,low,12,namecheap,,,
@@ -580,13 +579,13 @@ eb3642ba-0195-4fe7-aaa4-7d74853d8962,haveseenthisfilm.sydney,available,54.98,,me
 f8c43d0a-77c5-4f00-97c1-44124ace4035,jacobs.sydney,available,54.98,,high,low,6,namecheap,,,
 beed43f0-0de0-40ea-a5c6-27f8bf82f840,australiaday.sydney,premium,2722.43,,high,low,13,name.com,,,
 d8b1c7d4-bf42-4a12-a0fa-033771dbd72e,chimney.sydney,available,54.98,,high,low,7,namecheap,,,
-c674e75e-ad36-4b94-9d56-6119ff5ba9ae,required.sydney,available,54.98,,medium,low,8,namecheap,,,
+c674e75e-ad36-4b94-9d56-6119ff5ba9ae,required.sydney,available,44.98,54.98,medium,low,8,namecheap,,,23/09/2026 18:27
 179915be-6d8b-4f78-8a91-ca07e7446882,chips.sydney,available,54.98,,high,low,5,namecheap,,,
-257d05e0-fb06-4b6f-865a-344f0d7b1295,chance.sydney,premium,89.55,,high,low,6,name.com,,,
+257d05e0-fb06-4b6f-865a-344f0d7b1295,chance.sydney,available,58,58,medium,low,6,namesilo,,,23/09/2026 13:44
 2f738d9a-3497-4311-a129-ec956e12be82,documentation.sydney,available,54.98,,medium,low,13,namecheap,,,
 d64ee9da-7b1a-40bd-97d6-8eba3e0f6960,pocket.sydney,available,54.98,,high,medium,6,namecheap,,,
 a18793ad-a3a4-48b4-83df-d1021e8b2832,television.sydney,premium,184.86,184.86,medium,low,10,namecheap,,,23/09/2026 06:07
-35d7e2e0-6673-4687-90a1-ca002459ea04,covert.sydney,available,54.98,,medium,low,6,namecheap,,,
+35d7e2e0-6673-4687-90a1-ca002459ea04,covert.sydney,available,58,58,low,low,6,namesilo,,,24/09/2026 00:53
 245efdd4-c4d4-40fb-a3c9-f5f0f6f16633,damascus.sydney,available,54.98,,medium,low,8,namecheap,,,
 85dccb6f-544e-457a-abdb-2544506df4e5,critique.sydney,available,54.98,,high,low,8,namecheap,,,
 0069d037-a447-4985-8a51-39d95fb1217b,aweless.sydney,available,44.98,54.98,low,low,7,namecheap,,,08/08/2026 00:50
@@ -600,8 +599,8 @@ b1d6ff64-8dd7-4d89-9980-bee1c0204163,huge.sydney,premium,179.26,,high,low,4,name
 cc030ad5-b0cb-4997-8970-1d893ed62948,shoulderblade.sydney,available,54.98,,medium,low,14,namecheap,,,
 5d9118d2-c319-4134-afb7-9dddea7a82fc,advice.sydney,available,54.98,,high,low,6,namecheap,,,
 2bc947ae-928c-4607-944e-421efc6602c9,deadly.sydney,available,58,58,low,low,6,namesilo,,,22/09/2026 16:43
-ee1c1388-3d36-40db-8692-d156caa113f8,famous.sydney,premium,179.09,,high,low,6,name.com,,,
-295b2d4c-3e68-4845-9204-74c0a8c5e1ec,superb.sydney,available,54.98,,high,low,6,namecheap,,,
+ee1c1388-3d36-40db-8692-d156caa113f8,famous.sydney,available,58,58,medium,low,6,namesilo,,,23/09/2026 13:15
+295b2d4c-3e68-4845-9204-74c0a8c5e1ec,superb.sydney,available,58,58,medium,low,6,namesilo,,,23/09/2026 09:28
 16d2ece9-61b1-476c-8f5d-cac0b56e29ae,generalizeddisease.sydney,available,54.98,,low,low,19,namecheap,,,
 3eb3bb48-093c-479a-bf37-2e191c688c8b,maddened.sydney,available,44.98,54.98,low,low,8,namecheap,,,
 b43a83d0-c47e-4261-bda0-4342ed78e0c9,sugar.sydney,available,54.98,,high,low,5,namecheap,,,
@@ -661,10 +660,10 @@ afcbe211-e307-4e38-b972-6b308a91d0d0,granddad.sydney,available,54.98,,high,low,8
 104f94b3-a21a-48ff-ba14-d55aed6d8c79,nostrilhair.sydney,available,54.98,,low,low,12,namecheap,,,
 375b6092-b3d0-4e06-87a0-d9cb05e38db4,top.sydney,premium,2672.08,,high,medium,3,name.com,,,
 54ebb5dc-213d-4f33-b4fe-7a218ef69d46,substantial.sydney,available,54.98,,high,low,11,namecheap,,,
-3f4fffc8-d90a-45a9-9d39-d7d371273130,compact.sydney,available,54.98,,high,low,7,namecheap,,,
+3f4fffc8-d90a-45a9-9d39-d7d371273130,compact.sydney,available,58,58,medium,low,7,namesilo,,,23/09/2026 16:18
 0b78ca2f-88d3-4431-af3a-d0b54e30c9f7,kingdom.sydney,available,54.98,,high,low,7,namecheap,,,
 3c8f4959-3864-4911-9313-1a09f3c0f052,decent.sydney,available,44.98,54.98,low,low,6,namecheap,,,09/08/2026 06:17
-56434e3e-3815-4480-a27d-cd0f45477a4a,changing.sydney,available,54.98,,medium,low,8,namecheap,,,
+56434e3e-3815-4480-a27d-cd0f45477a4a,changing.sydney,available,58,58,low,low,8,namesilo,,,23/09/2026 13:46
 d62ae402-e75b-476e-be1d-f8c04a337b9f,carrie.sydney,premium,90.54,,high,low,6,name.com,,,
 4a2334be-c4ca-4e97-9ed9-cc52d56ed890,irrational.sydney,available,54.98,,high,low,10,namecheap,,,
 03172f20-31ce-4d9e-b08b-fc21461f6486,ice.sydney,available,58,58,low,low,3,namesilo,,,19/09/2026 17:13
@@ -702,9 +701,9 @@ cc725ca2-c409-4ed9-8aa3-fda1fcaf531f,experimental.sydney,available,54.98,,high,l
 8d95973d-a195-4427-be82-94c09bf24d59,oldgeezer.sydney,available,44.98,54.98,low,low,10,namecheap,,,05/08/2026 19:25
 4f79e6e2-a0d6-46f9-b8e5-699322510d62,invalid.sydney,available,54.98,,high,high,7,namecheap,,,
 626938d8-e702-4963-b272-2386cee2281e,aboutship.sydney,available,54.98,,medium,low,10,namecheap,,,
-10cb7e69-48e0-417e-9335-181191c0c9ae,scornful.sydney,available,54.98,,medium,low,8,namecheap,,,
+10cb7e69-48e0-417e-9335-181191c0c9ae,scornful.sydney,available,58,58,low,low,8,namesilo,,,23/09/2026 21:53
 a1780812-a86a-4855-91d9-6bd50271d5d2,amnic.sydney,available,44.98,54.98,low,low,5,namecheap,,,
-82f71bae-d26e-4ec5-b692-d2e93124a010,continued.sydney,available,54.98,,high,low,9,namecheap,,,
+82f71bae-d26e-4ec5-b692-d2e93124a010,continued.sydney,available,58,58,medium,low,9,namesilo,,,23/09/2026 22:14
 afc503d7-67b3-4c16-961d-1dfe658f5476,boundary.sydney,available,58,58,low,low,8,namesilo,,,23/09/2026 01:32
 57657ee7-98a0-49a5-be1d-808c77aac392,sunroof.sydney,available,54.98,,high,low,7,namecheap,,,
 5f572301-3031-4268-a238-8d89edf3de33,aquiline.sydney,available,44.98,54.98,low,low,8,namecheap,,,06/08/2026 11:01
@@ -719,7 +718,7 @@ d10bab75-a2f9-40bd-84d3-170984e40ce3,discussion.sydney,available,54.98,,high,low
 9010f27c-4f8b-44a4-8b5a-304ca09abbc5,alterable.sydney,available,58,58,low,low,9,namesilo,,,22/09/2026 02:18
 f338224f-7f95-41b3-9d91-6df581a1851f,araceous.sydney,available,44.98,54.98,low,low,8,namecheap,,,06/08/2026 11:36
 a1ed819d-740b-4b31-a791-9078b8d9817b,phoney.sydney,available,44.98,54.98,low,low,6,namecheap,,,08/08/2026 23:14
-9a71e292-f191-4455-b27e-9a54d1f46f3e,corny.sydney,available,54.98,,medium,low,5,namecheap,,,
+9a71e292-f191-4455-b27e-9a54d1f46f3e,corny.sydney,available,58,58,low,low,5,namesilo,,,23/09/2026 23:25
 2f615e60-e6db-4684-a083-6824fc3b904e,actable.sydney,available,44.98,54.98,low,low,7,namecheap,,,
 6f5cf837-f9d9-4dfd-9cba-47b53e80f871,medicalreport.sydney,available,54.98,,medium,low,14,namecheap,,,
 d6230f59-5be1-4a23-b9ed-31bff5cd1084,nowornever.sydney,available,54.98,,low,low,12,namecheap,,,
@@ -735,7 +734,7 @@ eb2ebae3-bae8-47dd-b169-f19eb524c701,nineteenth.sydney,available,44.98,54.98,low
 c4e4ea09-b811-4b1a-bd7c-813736578495,flipthebird.sydney,available,54.98,,medium,low,13,namecheap,,,
 042d4096-3093-467f-8de0-e83808adb776,payfor.sydney,available,54.98,,high,low,7,namecheap,,,
 dfbb0d09-3931-40d4-84fd-7cdd1da09c48,revelatory.sydney,available,44.98,54.98,low,low,10,namecheap,,,06/08/2026 00:55
-94ab490f-7b88-4afb-a1fa-c264377845f6,parody.sydney,available,54.98,,high,low,6,namecheap,,,
+94ab490f-7b88-4afb-a1fa-c264377845f6,parody.sydney,available,58,58,medium,low,6,namesilo,,,23/09/2026 11:34
 ef5bad6d-eb13-4eea-b8c2-c60bb473675a,orangenotice.sydney,available,54.98,,medium,low,13,namecheap,,,
 4d2fafdc-0108-4996-a933-cafd96de444e,nyse.sydney,available,54.98,,medium,low,4,namecheap,,,
 52fbfb1a-f942-437b-bcca-dfc7f3053bfd,whatittakes.sydney,available,54.98,,low,low,13,namecheap,,,
@@ -813,7 +812,7 @@ d0e365a9-28b2-4c0f-84ef-dccc209e8c54,proud.sydney,available,54.98,,high,low,5,na
 096c50eb-d864-4ea2-b2b4-635933efd227,adhoc.sydney,available,44.98,54.98,low,low,6,namecheap,,,
 fa1b2cb0-d8a8-49b3-98dd-e00d33729694,suspect.sydney,available,54.98,,high,low,7,namecheap,,,
 ff27ea1b-055b-473a-b290-5cc6f5754d6b,agelong.sydney,available,44.98,54.98,low,low,7,namecheap,,,
-7d363e2e-d548-4b84-81c5-68f75fb811da,flop.sydney,available,54.98,,medium,low,4,namecheap,,,
+7d363e2e-d548-4b84-81c5-68f75fb811da,flop.sydney,available,58,58,low,low,4,namesilo,,,23/09/2026 12:03
 2011812a-e7fc-42f3-bb82-009e98e29b39,went.sydney,available,54.98,,high,low,4,namecheap,,,
 a0166e02-458d-42cd-b0e0-cab30fc15339,progression.sydney,available,54.98,,medium,low,11,namecheap,,,
 f3aadbca-fbc9-4825-81fa-9edbe26f0fc2,wharf.sydney,premium,90.19,,high,low,5,name.com,,,
@@ -840,7 +839,7 @@ d8de9d94-6042-4368-86d4-e90483fbc955,backalley.sydney,available,54.98,,medium,lo
 1e46b6f4-0237-4bf1-a1cf-b077a59e193b,guestchair.sydney,available,54.98,,medium,low,11,namecheap,,,
 a4a818b2-7ab2-408d-8020-ad41bf99ae9b,apractic.sydney,available,44.98,54.98,low,low,8,namecheap,,,06/08/2026 09:49
 f26362d7-4b41-49ca-b288-850a70059f47,aerated.sydney,available,44.98,54.98,low,low,7,namecheap,,,
-19b34727-3e3b-4bfa-8a97-d93a654e7fd2,pervert.sydney,available,54.98,,high,low,7,namecheap,,,
+19b34727-3e3b-4bfa-8a97-d93a654e7fd2,pervert.sydney,available,58,58,low,low,7,namesilo,,,23/09/2026 23:54
 c403f792-7dd6-4ffb-b6ca-b976f9c285b0,amygdaloid.sydney,available,44.98,54.98,low,low,10,namecheap,,,
 fafadc16-7904-4e91-afe2-e70141dee8b1,creature.sydney,available,58,58,low,low,8,namesilo,,,22/09/2026 04:42
 a44f7601-7861-48f2-95bb-9d28886b3af0,keepcompany.sydney,available,54.98,,high,low,12,namecheap,,,
@@ -852,7 +851,7 @@ cf93f65e-190c-4984-aacb-77deee4a2f0b,brook.sydney,premium,89.57,,medium,low,5,na
 c73f9532-e975-43d7-a852-9590033e7d4a,instagrammable.sydney,available,54.98,,high,low,14,namecheap,,,
 ea99c64d-a2ce-4bc7-b955-0bc954158e19,commonkiwi.sydney,available,54.98,,medium,low,11,namecheap,,,
 c1ef138f-6cb2-4a5b-b4d6-ee6a38abd06d,actuated.sydney,available,44.98,54.98,low,low,8,namecheap,,,
-4c706bf5-0848-4ff7-854a-c87015b98c4b,yellow.sydney,premium,89.55,,high,low,6,name.com,,,
+4c706bf5-0848-4ff7-854a-c87015b98c4b,yellow.sydney,available,58,58,medium,low,6,namesilo,,,23/09/2026 14:15
 f1f5f118-33bf-457b-820f-3e9f5ad28f88,airdried.sydney,available,44.98,54.98,low,low,9,namecheap,,,
 eb73462d-9f0f-4c47-aed5-53b253c16ac7,together.sydney,available,54.98,,high,medium,8,namecheap,,,
 76ac63f9-321d-4c76-9afb-76f582292f30,askew.sydney,available,44.98,54.98,low,low,5,namecheap,,,07/08/2026 03:31
@@ -917,7 +916,7 @@ c9271529-aca4-4dbe-b690-91e9d84db62d,legion.sydney,available,54.98,,high,low,6,n
 45454bef-2fbf-4825-bb1e-f056b7c905c0,sufficient.sydney,available,54.98,,high,low,10,namecheap,,,
 80b239db-6774-48ed-88b5-64c382df7fc2,atilt.sydney,available,44.98,54.98,low,low,5,namecheap,,,07/08/2026 13:13
 e6f70cbe-97ef-430e-b2a0-59fb9bfddeb5,nightsky.sydney,available,54.98,,high,low,9,namecheap,,,
-6eedcaca-72a0-499c-80a8-df14a0017819,spiral.sydney,available,54.98,,high,low,6,namecheap,,,
+6eedcaca-72a0-499c-80a8-df14a0017819,spiral.sydney,available,58,58,medium,low,6,namesilo,,,23/09/2026 14:59
 09ba2a5f-f0d5-46d4-9125-36f7a88be76b,xii.sydney,premium,92.56,92.56,low,low,3,namecheap,,,21/09/2026 11:25
 af0fa2fe-3bad-4c51-ae40-9a53c238f108,aflutter.sydney,available,44.98,54.98,low,low,8,namecheap,,,
 a7fb3eb4-16db-4dc8-b8bd-37ed73706db3,alarm.sydney,available,44.98,54.98,low,low,5,namecheap,,,
@@ -987,7 +986,7 @@ a37b59c2-b639-4b07-811d-bb7fb9e4408b,nobody.sydney,available,54.98,,medium,low,6
 5735829f-4715-4bc9-a944-251152f83e50,scrub.sydney,available,54.98,,high,low,5,namecheap,,,
 06c2891f-d40e-4999-b0a4-83530bc7205e,useful.sydney,premium,89.95,,high,low,6,name.com,,,
 99cb4a10-5dda-46e7-b502-d8ee25427ffd,eastern.sydney,available,54.98,,high,low,7,namecheap,,,
-e9e7055f-447b-4a94-b309-9c9acbbbd122,powerful.sydney,available,54.98,,high,low,8,namecheap,,,
+e9e7055f-447b-4a94-b309-9c9acbbbd122,powerful.sydney,available,58,58,medium,low,8,namesilo,,,23/09/2026 09:23
 ca809c94-7db9-4b72-b129-0a665a2d0217,figure.sydney,available,54.98,,high,low,6,namecheap,,,
 95553cb3-881c-4fe8-ae53-968836932ca9,modernistcuisine.sydney,available,54.98,,high,low,17,namecheap,,,
 6660e5c2-ef85-4d7b-8e5f-5d70ecfbd92a,sound.sydney,premium,447.71,,high,low,5,name.com,,,
@@ -999,3 +998,4 @@ e34e042a-4d38-4049-afea-b3f499fef0f3,policeofficer.sydney,available,54.98,,high,
 14303e32-15f1-4c39-a81c-de54b9f08e8b,toiletpaper.sydney,available,54.98,,high,low,12,namecheap,,,
 e5e04290-baeb-45ed-8bef-268760197caa,inaway.sydney,available,54.98,,medium,low,8,namecheap,,,
 9867c3be-cebf-4ee1-b2f1-22bf579baa0d,supermarket.sydney,premium,2719.5,,high,low,11,name.com,,,
+8bd1ca12-a454-4ca4-8dc1-487e0d76cc4f,washington.sydney,available,54.98,,high,low,10,namecheap,,,
