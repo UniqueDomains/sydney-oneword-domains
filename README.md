@@ -1,10 +1,10 @@
-# Available .SYDNEY One-Word Domains (33,696)
+# Available .SYDNEY One-Word Domains (36,021)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C696%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-36%2C021%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .sydney one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,696 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **36,021 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,696 domains · **Median ask:** $62.30 · **High-demand under $2,500:** 93
+**Public extract:** 1,000 rows · **Live catalog:** 36,021 domains · **Median ask:** $61.50 · **High-demand under $2,500:** 98
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/sydney`
 **Best for:** founders, investors, studios
 
@@ -70,20 +70,20 @@ print(df.head())
 | dai.sydney   | available | $58       | $58           | high           | low    | 3      | namesilo                                  |
 | near.sydney  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                          |
 | bay.sydney   | premium   | $58       | $58           | high           | low    | 3      | namesilo                                  |
-| fan.sydney   | available | $58       | $58           | high           | medium | 3      | namesilo                                  |
+| dmz.sydney   | available | $58       | $58           | high           | low    | 3      | namesilo                                  |
 | linux.sydney | resell    | —         | —             | high           | medium | 5      | Dreamscape Networks International Pte Ltd |
 | ddr.sydney   | premium   | $152.80   | $152.80       | high           | low    | 3      | dynadot                                   |
-| fha.sydney   | available | $58       | $58           | high           | low    | 3      | namesilo                                  |
+| fan.sydney   | available | $58       | $58           | high           | medium | 3      | namesilo                                  |
 | pearl.sydney | resell    | —         | —             | high           | low    | 5      | Dreamscape Networks International Pte Ltd |
 | dip.sydney   | premium   | $183.76   | $183.76       | high           | low    | 3      | namecheap                                 |
-| hun.sydney   | available | $58       | $58           | high           | low    | 3      | namesilo                                  |
+| fha.sydney   | available | $58       | $58           | high           | low    | 3      | namesilo                                  |
 | dun.sydney   | premium   | $88.56    | $88.56        | medium         | low    | 3      | name.com                                  |
-| iaa.sydney   | available | $58       | $58           | medium         | low    | 3      | namesilo                                  |
+| hun.sydney   | available | $58       | $58           | high           | low    | 3      | namesilo                                  |
 | gip.sydney   | premium   | $58       | $58           | medium         | low    | 3      | namesilo                                  |
-| ies.sydney   | available | $58       | $58           | medium         | low    | 3      | namesilo                                  |
-| gst.sydney   | premium   | $76.87    | $76.87        | medium         | low    | 3      | dynadot                                   |
-| kev.sydney   | available | $58       | $58           | high           | low    | 3      | namesilo                                  |
+| iaa.sydney   | available | $58       | $58           | medium         | low    | 3      | namesilo                                  |
 | how.sydney   | premium   | $84.50    | $84.50        | high           | low    | 3      | porkbun                                   |
+| ies.sydney   | available | $58       | $58           | medium         | low    | 3      | namesilo                                  |
+| hud.sydney   | premium   | $76.39    | $76.39        | high           | low    | 3      | dynadot                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,696 live domains                        |
+| 1,000-row public sample | 36,021 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 93 high-demand names under $2,500          |
+| Basic exported fields   | 98 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SYDNEY One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SYDNEY One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
